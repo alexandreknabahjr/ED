@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666902738 source:c:\users\alexandre\desktop\postagens github\segundo semestre\inf01203 - estruturas de dados\trabalhofinal\arvores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvores.h"
+
+1666902712 c:\users\alexandre\desktop\postagens github\segundo semestre\inf01203 - estruturas de dados\trabalhofinal\arvores.h
+
