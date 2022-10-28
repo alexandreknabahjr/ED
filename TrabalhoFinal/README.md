@@ -86,22 +86,21 @@ int comparacoes_AVL;
 
 ## Estatísticas 
 
-======== Estatisticas ABP ========
-Numero de nodos: 1993
-Altura: 29
-Rotacoes: 0
-Comparacoes: 506
+======== Estatisticas ABP ========  
 
-======== Estatisticas AVL ========
-Numero de nodos: 1993
-Altura: 13
-Rotacoes: 934
-Comparacoes: 438
+Numero de nodos: 1993  
+Altura: 29  
+Rotacoes: 0  
+Comparacoes: 506  
+
+
+======== Estatisticas AVL ========  
+Numero de nodos: 1993  
+Altura: 13  
+Rotacoes: 934  
+Comparacoes: 438  
 
 ## Integrantes 
 
-Alexandre Bartolo Knabah Júnior
-
+Alexandre Bartolo Knabah Júnior  
 Laura Becker Ramos
-
-
