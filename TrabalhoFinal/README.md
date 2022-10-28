@@ -49,7 +49,7 @@ typedef struct comida{
 }COMIDA;
 ```
 
-## Funções (ABP) & Contadores:
+## Funções (ABP) & Contadores
 
 ```c
 // Assinaturas:
@@ -63,7 +63,7 @@ int rotacoes_ABP;
 int comparacoes_ABP;
 ```
 
-## Funções (AVL):
+## Funções (AVL) & Contadores
 
 ```c
 // Assinatuas:
