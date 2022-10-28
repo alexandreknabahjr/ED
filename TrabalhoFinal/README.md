@@ -52,6 +52,7 @@ typedef struct comida{
 ## Integrantes 
 
 Alexandre Bartolo Knabah Júnior
+
 Laura Becker Ramos
 
 
