@@ -18,7 +18,9 @@ Saída: um arquivo com extensão .txt. Nele, temos a quantidade de calorias inge
 C:\TrabalhoFinal allShuffled.csv day2.csv saidaallShuffled.txt
 ```
 
-## ABP
+## Estruturas
+
+### ABP
 
 ```c
 typedef struct abp{
@@ -28,7 +30,7 @@ typedef struct abp{
 }ABP;
 ```
 
-## AVL
+### AVL
 
 ```c
 typedef struct avl{
@@ -40,7 +42,7 @@ typedef struct avl{
 ```
 
 
-## COMIDA
+### COMIDA
 
 ```c
 typedef struct comida{
@@ -49,7 +51,9 @@ typedef struct comida{
 }COMIDA;
 ```
 
-## Funções (ABP) & Contadores
+## Funções & Contadores
+
+### ABP
 
 ```c
 // Assinaturas:
@@ -63,7 +67,7 @@ int rotacoes_ABP;
 int comparacoes_ABP;
 ```
 
-## Funções (AVL) & Contadores
+### AVL
 
 ```c
 // Assinatuas:
