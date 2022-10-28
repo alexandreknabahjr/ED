@@ -86,18 +86,57 @@ int comparacoes_AVL;
 
 ## Estatísticas 
 
+### 1000Shuffled.csv e day1.csv
+======== Estatisticas ABP ========  
+Numero de nodos: 1000  
+Altura: 22  
+Rotacoes: 0  
+Comparacoes: 310  
+
+======== Estatisticas AVL ========  
+Numero de nodos: 1000  
+Altura: 12  
+Rotacoes: 449  
+Comparacoes: 248  
+
+### 1000Sorted.csv e day1.csv
+======== Estatisticas ABP ========  
+Numero de nodos: 1000  
+Altura: 867  
+Rotacoes: 0  
+Comparacoes: 6440  
+
+======== Estatisticas AVL ========  
+Numero de nodos: 1000  
+Altura: 10  
+Rotacoes: 986  
+Comparacoes: 238  
+
+### allShuffled.csv e day2.csv
 ======== Estatisticas ABP ========  
 Numero de nodos: 1993  
 Altura: 29  
 Rotacoes: 0  
 Comparacoes: 506  
 
-
 ======== Estatisticas AVL ========  
 Numero de nodos: 1993  
 Altura: 13  
 Rotacoes: 934  
 Comparacoes: 438  
+
+### allSorted.csv e day2.csv
+======== Estatisticas ABP ========  
+Numero de nodos: 1993  
+Altura: 1814  
+Rotacoes: 0  
+Comparacoes: 33484  
+
+======== Estatisticas AVL ========  
+Numero de nodos: 1993  
+Altura: 12  
+Rotacoes: 1869  
+Comparacoes: 400  
 
 ## Integrantes 
 
