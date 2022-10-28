@@ -8,7 +8,7 @@ O objetivo deste projeto foi de avaliar o desempenho de duas Árvores Binárias 
 
 ## Entradas & Saídas
 
-Entradas: dois arquivos com extensão .csv. O primeiro arquivo contém o nome dos alimentos e a quantidade de calorias a cada 100g. No segundo arquivo, temos o nome dos alimentos e a quantidade ingerida, em gramas, de cada alimento.
+Entradas: dois arquivos com extensão .csv. O primeiro arquivo contém o nome dos alimentos e a quantidade de calorias a cada 100g. No segundo arquivo, temos os nomes dos alimentos e a quantidade ingerida, em gramas, de cada alimento.
 
 Saída: um arquivo com extensão .txt. Nele, temos a quantidade de calorias ingeridas por alimento, a quantidade total de calorias ingeridas ao longo do dia e as estatísticas de ambas as árvores. 
 
