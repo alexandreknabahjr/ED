@@ -87,7 +87,6 @@ int comparacoes_AVL;
 ## Estatísticas 
 
 ======== Estatisticas ABP ========  
-
 Numero de nodos: 1993  
 Altura: 29  
 Rotacoes: 0  
