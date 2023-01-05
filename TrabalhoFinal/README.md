@@ -70,7 +70,7 @@ int comparacoes_ABP;
 ### AVL
 
 ```c
-// Assinatuas:
+// Assinaturas:
 int Altura (AVL *a);
 int Calcula_FB(AVL *a);
 AVL* rotacao_direita(AVL *pt);
